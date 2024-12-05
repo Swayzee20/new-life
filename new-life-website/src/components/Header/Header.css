@@ -1,0 +1,14 @@
+.header {
+  background-image: url(../../images/DSC09541.jpg);
+  height: 700px;
+  background-size: cover;
+}
+.header__logo {
+}
+
+.header__elements {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0px 20px;
+}
